@@ -1,0 +1,42 @@
+*
+{
+ margin:0px;
+ padding:0px;
+ }
+ 
+ ul
+ {
+ width:1000px;
+ height:200px;
+ padding:10px;
+ text-align:center;
+ text-decoration:none;
+ margin-top:10px;
+ display: inline;
+ transition-property: color, background-color, padding, box-shadow;
+ transition-duration: 1s;
+ list-style-type:none;
+ 
+
+  }
+  
+  ul li:active
+  {
+	 border:1px solid color black;
+	 width:100px;
+	 height:20px;
+	 text-align:center;
+	 padding:20px;
+	 text-decoration:none;
+	 
+     margin-top:10px;
+	 background-color: green;
+	 position:relative;
+	 background-color:Yellow;
+	 transition-duration: 1s;
+	  list-style-type:none;
+	  border:1px solid ;
+	  border-radius:100px;
+	  
+  }
+  
